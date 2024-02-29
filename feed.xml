@@ -1,0 +1,45 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<channel>
+<title>Native Neil Private Feed</title>
+<link>https://taylornd.github.io/podfeed//</link>
+<language>en-uk</language>
+<atom:link href="https://taylornd.github.io/podfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<copyright>Neil Taylor</copyright>
+<itunes:subtitle>Best Of</itunes:subtitle>
+<itunes:author>Neil Taylor</itunes:author>
+<itunes:summary>
+Private Feed for Podcasts I want to Keep
+</itunes:summary>
+<itunes:keywords>
+Best
+</itunes:keywords>
+<description>
+Private Feed for Podcasts I want to Keep
+</description>
+<itunes:owner>
+<itunes:name>Neil Taylor</itunes:name>
+<itunes:email>taylornd+podcast@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://taylornd.github.io/podfeed/podart.jpg"/>
+<itunes:category text="Self-Improvement"></itunes:category>
+<itunes:category text="Mental Health"></itunes:category>
+<itunes:category text="Education"></itunes:category>
+
+<item>
+<title>Kapil Gupta on Minimalists Podcast</title>
+<description>
+<![CDATA[
+Kapil Gupta on Minimalists Podcast
+]]>
+</description>
+<enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/373_Maximal_No_Prescriptions.mp3" length="123931924" type="audio/mpeg"/>
+<itunes:duration>02:09</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://f001.backblazeb2.com/file/ndt-dropshare/373_Maximal_No_Prescriptions.mp3
+</guid>
+<pubDate>2 Jan 2023 12:00</pubDate>
+<itunes:explicit>YES</itunes:explicit>
+</item>
+</channel>
+</rss>
