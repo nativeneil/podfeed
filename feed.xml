@@ -33,7 +33,7 @@ Kapil Gupta on Minimalists Podcast
 ]]>
 </description>
 <enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/373_Maximal_No_Prescriptions.mp3" length="123931924" type="audio/mpeg"/>
-<itunes:duration>02:09</itunes:duration>
+<itunes:duration>02:09:00</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://f001.backblazeb2.com/file/ndt-dropshare/373_Maximal_No_Prescriptions.mp3
@@ -50,7 +50,7 @@ Sam Harris and David Deutsch 01 Surviving the Cosmos
 ]]>
 </description>
 <enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/Sam%20Harris%20David%20Deutsch%20Surviving%20the%20Cosmos.mp3" length="271231545" type="audio/mpeg"/>
-<itunes:duration>01:53</itunes:duration>
+<itunes:duration>01:53:00</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://f001.backblazeb2.com/file/ndt-dropshare/Sam%20Harris%20David%20Deutsch%20Surviving%20the%20Cosmos.mp3
@@ -67,7 +67,7 @@ Sam Harris and David Deutsch 02 Finding Our Way in the Cosmos
 ]]>
 </description>
 <enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/Sam%20Harris%20David%20Deutsch%20Finding%20Our%20Way%20in%20the%20Cosmos.mp3" length="262349498" type="audio/mpeg"/>
-<itunes:duration>01:49</itunes:duration>
+<itunes:duration>01:49:00</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://f001.backblazeb2.com/file/ndt-dropshare/Sam%20Harris%20David%20Deutsch%20Finding%20Our%20Way%20in%20the%20Cosmos.mp3
@@ -84,7 +84,7 @@ David Deutsch on The Fun Criterion, Objective Beauty & Artificial Intelligence
 ]]>
 </description>
 <enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20on%20The%20Fun%20Criterion%2C%20Objective%20Beauty%20%26%20Artificial%20Intelligence.mp3" length="177059808" type="audio/mpeg"/>
-<itunes:duration>01:13</itunes:duration>
+<itunes:duration>01:13:00</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20on%20The%20Fun%20Criterion%2C%20Objective%20Beauty%20%26%20Artificial%20Intelligence.mp3
@@ -101,7 +101,7 @@ David Deutsch On Beauty, Knowledge, and Progress
 ]]>
 </description>
 <enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20On%20Beauty%2C%20Knowledge%2C%20and%20Progress.mp3" length="153855250" type="audio/mpeg"/>
-<itunes:duration>01:04</itunes:duration>
+<itunes:duration>01:04:00</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20On%20Beauty%2C%20Knowledge%2C%20and%20Progress.mp3
@@ -118,7 +118,7 @@ David Deutsch on Optimism
 ]]>
 </description>
 <enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20on%20Optimism.mp3" length="145689639" type="audio/mpeg"/>
-<itunes:duration>01:00</itunes:duration>
+<itunes:duration>01:00:00</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20on%20Optimism.mp3
@@ -135,12 +135,29 @@ Kapil and Naval
 ]]>
 </description>
 <enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/Kapil%20and%20Naval.mp3" length="200587179" type="audio/mpeg"/>
-<itunes:duration>01:23</itunes:duration>
+<itunes:duration>01:23:00</itunes:duration>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
 https://f001.backblazeb2.com/file/ndt-dropshare/Kapil%20and%20Naval.mp3
 </guid>
 <pubDate>14 Oct 2021 12:00</pubDate>
+<itunes:explicit>YES</itunes:explicit>
+</item>
+
+<item>
+<title>David Deutsch Why It’s Good To Be Wrong</title>
+<description>
+<![CDATA[
+David Deutsch Why It’s Good To Be Wrong
+]]>
+</description>
+<enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20Why%20It%E2%80%99s%20Good%20To%20Be%20Wrong.m4a" length="28663142" type="audio/mpeg"/>
+<itunes:duration>29:31</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20Why%20It%E2%80%99s%20Good%20To%20Be%20Wrong.m4a
+</guid>
+<pubDate>25 Jun 2023 12:00</pubDate>
 <itunes:explicit>YES</itunes:explicit>
 </item>
 
