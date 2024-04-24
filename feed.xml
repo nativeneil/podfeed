@@ -161,5 +161,22 @@ https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20Why%20It%E2%80
 <itunes:explicit>YES</itunes:explicit>
 </item>
 
+<item>
+<title>David Deutsch - The Beginning of Infinity</title>
+<description>
+<![CDATA[
+David Deutsch - The Beginning of Infinity Sagenhaft und Sonderbar - der Podcast
+]]>
+</description>
+<enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20Why%20It%E2%80%99s%20Good%20To%20Be%20Wrong.m4a" length="186535760" type="audio/mpeg"/>
+<itunes:duration>1:17:42</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20-%20The%20Beginning%20of%20Infinity.mp3
+</guid>
+<pubDate>30 Mar 2024 12:00</pubDate>
+<itunes:explicit>YES</itunes:explicit>
+</item>
+
 </channel>
 </rss>
