@@ -178,5 +178,22 @@ https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20-%20The%20Begi
 <itunes:explicit>YES</itunes:explicit>
 </item>
 
+<item>
+<title>Kapil Question</title>
+<description>
+<![CDATA[
+Kapil Gupta Best Question he's been asked
+]]>
+</description>
+<enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/Kapil%20Question.m4a" length="12610573" type="audio/mpeg"/>
+<itunes:duration>0:15:43</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://f001.backblazeb2.com/file/ndt-dropshare/Kapil%20Question.m4a
+</guid>
+<pubDate>24 Apr 2024 12:00</pubDate>
+<itunes:explicit>YES</itunes:explicit>
+</item>
+
 </channel>
 </rss>
