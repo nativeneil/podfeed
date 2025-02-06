@@ -3,7 +3,7 @@
 <title>Native Neil Private Feed</title>
 <link>https://nativeneil.github.io/podfeed/</link>
 <language>en-uk</language>
-<atom:link href="https://taylornd.github.io/podfeed/feed.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://nativeneil.github.io/podfeed/feed.xml" rel="self" type="application/rss+xml"/>
 <copyright>Neil Taylor</copyright>
 <itunes:subtitle>Best Of</itunes:subtitle>
 <itunes:author>Neil Taylor</itunes:author>
