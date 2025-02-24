@@ -264,5 +264,22 @@ https://f001.backblazeb2.com/file/ndt-dropshare/David%20Deutsch%20Chris%20Patmor
 <itunes:explicit>YES</itunes:explicit>
 </item>
 
+<item>
+<title>David Deutsch What is the Fun Criterion?</title>
+<description>
+<![CDATA[
+David Deutsch proposed a criterion for deciding what to do: fun. In this video, Lulie Tanett asks what that means and why fun is important.
+]]>
+</description>
+<enclosure url="https://f001.backblazeb2.com/file/ndt-dropshare/What%20is%20the%20Fun%20Criterion.mp3" length="46642031" type="audio/mpeg"/>
+<itunes:duration>0:19:25</itunes:duration>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://f001.backblazeb2.com/file/ndt-dropshare/What%20is%20the%20Fun%20Criterion.mp3
+</guid>
+<pubDate>13 Dec 2019 12:00</pubDate>
+<itunes:explicit>YES</itunes:explicit>
+</item>
+
 </channel>
 </rss>
